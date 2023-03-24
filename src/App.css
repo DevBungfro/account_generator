@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  
+}
+
+body {
+  background-color:  white
+}
+
+.gif-ad {
+  width: 1000px;
+  border: solid 10px #5c53f3;
+  border-radius: 5px;
+  height: 500px;
+}
+
+
+
+ 
